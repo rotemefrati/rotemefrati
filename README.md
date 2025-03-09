@@ -2,5 +2,5 @@
 
 
 
-- 🖥 I’m currently studying Algorithms & Operation Systems.
+- 🖥 I’m currently studying Algorithms & Operating Systems.
 - 🗯 I'm always looking to learn new topics and skills.
